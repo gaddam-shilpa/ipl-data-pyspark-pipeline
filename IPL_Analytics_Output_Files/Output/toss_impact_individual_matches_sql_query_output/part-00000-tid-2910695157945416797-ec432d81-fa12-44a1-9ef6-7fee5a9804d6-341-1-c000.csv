@@ -1,0 +1,638 @@
+match_id,toss_winner,toss_name,match_winner,match_outcome
+335987,Royal Challengers Bangalore,field,Kolkata Knight Riders,Lost
+335988,Chennai Super Kings,bat,Chennai Super Kings,Won
+335989,Rajasthan Royals,bat,Delhi Daredevils,Lost
+335990,Mumbai Indians,bat,Royal Challengers Bangalore,Lost
+335991,Deccan Chargers,bat,Kolkata Knight Riders,Lost
+335992,Kings XI Punjab,bat,Rajasthan Royals,Lost
+335993,Deccan Chargers,bat,Delhi Daredevils,Lost
+335994,Mumbai Indians,field,Chennai Super Kings,Lost
+335995,Rajasthan Royals,field,Rajasthan Royals,Won
+335996,Mumbai Indians,field,Kings XI Punjab,Lost
+335997,Rajasthan Royals,field,Rajasthan Royals,Won
+335998,Kolkata Knight Riders,bat,Chennai Super Kings,Lost
+335999,Deccan Chargers,field,Deccan Chargers,Won
+336000,Delhi Daredevils,bat,Kings XI Punjab,Lost
+336001,Chennai Super Kings,bat,Chennai Super Kings,Won
+336002,Kolkata Knight Riders,bat,Mumbai Indians,Lost
+336003,Royal Challengers Bangalore,field,Delhi Daredevils,Lost
+336004,Kings XI Punjab,field,Kings XI Punjab,Won
+336005,Rajasthan Royals,bat,Rajasthan Royals,Won
+336006,Chennai Super Kings,bat,Delhi Daredevils,Lost
+336007,Deccan Chargers,bat,Royal Challengers Bangalore,Lost
+336008,Kings XI Punjab,bat,Kings XI Punjab,Won
+336009,Delhi Daredevils,field,Mumbai Indians,Lost
+336010,Chennai Super Kings,bat,Rajasthan Royals,Lost
+336011,Kings XI Punjab,field,Kings XI Punjab,Won
+336012,Deccan Chargers,field,Deccan Chargers,Won
+336013,Mumbai Indians,field,Mumbai Indians,Won
+336014,Chennai Super Kings,field,Chennai Super Kings,Won
+336015,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+336016,Rajasthan Royals,field,Rajasthan Royals,Won
+336017,Mumbai Indians,field,Mumbai Indians,Won
+336018,Kings XI Punjab,field,Chennai Super Kings,Lost
+336019,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+336020,Rajasthan Royals,field,Rajasthan Royals,Won
+336021,Royal Challengers Bangalore,bat,Kings XI Punjab,Lost
+336022,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+336023,Mumbai Indians,field,Mumbai Indians,Won
+336024,Rajasthan Royals,field,Kings XI Punjab,Lost
+336025,Deccan Chargers,field,Delhi Daredevils,Lost
+336026,Mumbai Indians,field,Mumbai Indians,Won
+336027,Delhi Daredevils,bat,Kings XI Punjab,Lost
+336028,Royal Challengers Bangalore,field,Rajasthan Royals,Lost
+336029,Deccan Chargers,field,Mumbai Indians,Lost
+336030,Kolkata Knight Riders,bat,Chennai Super Kings,Lost
+336031,Delhi Daredevils,field,Delhi Daredevils,Won
+336032,Rajasthan Royals,field,Rajasthan Royals,Won
+336033,Mumbai Indians,field,Kings XI Punjab,Lost
+336034,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Won
+336036,Kings XI Punjab,field,Kings XI Punjab,Won
+336037,Delhi Daredevils,field,Delhi Daredevils,Won
+336038,Rajasthan Royals,bat,Rajasthan Royals,Won
+336039,Deccan Chargers,field,Royal Challengers Bangalore,Lost
+336040,Kings XI Punjab,bat,Kolkata Knight Riders,Lost
+336041,Rajasthan Royals,field,Rajasthan Royals,Won
+336042,Deccan Chargers,bat,Chennai Super Kings,Lost
+336043,Delhi Daredevils,field,Rajasthan Royals,Lost
+336044,Kings XI Punjab,bat,Chennai Super Kings,Lost
+336045,Rajasthan Royals,field,Rajasthan Royals,Won
+392186,Chennai Super Kings,field,Mumbai Indians,Lost
+392187,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Won
+392188,Delhi Daredevils,field,Delhi Daredevils,Won
+392189,Kolkata Knight Riders,bat,Deccan Chargers,Lost
+392190,Chennai Super Kings,bat,Chennai Super Kings,Won
+392191,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+392193,Deccan Chargers,bat,Deccan Chargers,Won
+392194,Delhi Daredevils,bat,Delhi Daredevils,Won
+392195,Kolkata Knight Riders,field,Rajasthan Royals,Lost
+392196,Royal Challengers Bangalore,bat,Kings XI Punjab,Lost
+392197,Deccan Chargers,bat,Deccan Chargers,Won
+392199,Royal Challengers Bangalore,bat,Delhi Daredevils,Lost
+392200,Kings XI Punjab,bat,Kings XI Punjab,Won
+392201,Deccan Chargers,field,Deccan Chargers,Won
+392202,Mumbai Indians,bat,Mumbai Indians,Won
+392203,Delhi Daredevils,bat,Rajasthan Royals,Lost
+392204,Kolkata Knight Riders,bat,Royal Challengers Bangalore,Lost
+392205,Kings XI Punjab,bat,Kings XI Punjab,Won
+392206,Delhi Daredevils,field,Delhi Daredevils,Won
+392207,Rajasthan Royals,field,Chennai Super Kings,Lost
+392208,Mumbai Indians,bat,Mumbai Indians,Won
+392209,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Won
+392210,Deccan Chargers,bat,Rajasthan Royals,Lost
+392211,Delhi Daredevils,field,Chennai Super Kings,Lost
+392212,Kolkata Knight Riders,bat,Kings XI Punjab,Lost
+392213,Mumbai Indians,bat,Royal Challengers Bangalore,Lost
+392214,Chennai Super Kings,bat,Chennai Super Kings,Won
+392215,Kings XI Punjab,field,Rajasthan Royals,Lost
+392216,Kolkata Knight Riders,bat,Delhi Daredevils,Lost
+392217,Deccan Chargers,bat,Deccan Chargers,Won
+392218,Rajasthan Royals,field,Rajasthan Royals,Won
+392219,Chennai Super Kings,bat,Chennai Super Kings,Won
+392220,Mumbai Indians,bat,Delhi Daredevils,Lost
+392221,Kings XI Punjab,field,Kings XI Punjab,Won
+392222,Rajasthan Royals,bat,Chennai Super Kings,Lost
+392223,Mumbai Indians,bat,Mumbai Indians,Won
+392224,Delhi Daredevils,field,Delhi Daredevils,Won
+392225,Deccan Chargers,bat,Deccan Chargers,Won
+392226,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+392227,Kings XI Punjab,bat,Mumbai Indians,Lost
+392228,Deccan Chargers,field,Delhi Daredevils,Lost
+392229,Chennai Super Kings,bat,Royal Challengers Bangalore,Lost
+392230,Rajasthan Royals,bat,Rajasthan Royals,Won
+392231,Kings XI Punjab,field,Kings XI Punjab,Won
+392232,Mumbai Indians,bat,Chennai Super Kings,Lost
+392233,Deccan Chargers,field,Deccan Chargers,Won
+392234,Deccan Chargers,field,Kings XI Punjab,Lost
+392235,Delhi Daredevils,bat,Delhi Daredevils,Won
+392236,Chennai Super Kings,bat,Kolkata Knight Riders,Lost
+392237,Delhi Daredevils,bat,Royal Challengers Bangalore,Lost
+392238,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+392239,Chennai Super Kings,bat,Chennai Super Kings,Won
+392240,Delhi Daredevils,field,Delhi Daredevils,Won
+392241,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Won
+392242,Deccan Chargers,field,Deccan Chargers,Won
+392243,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+392244,Royal Challengers Bangalore,field,Deccan Chargers,Lost
+419111,Deccan Chargers,field,Kolkata Knight Riders,Lost
+419112,Mumbai Indians,bat,Mumbai Indians,Won
+419113,Delhi Daredevils,field,Delhi Daredevils,Won
+419114,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+419115,Deccan Chargers,bat,Deccan Chargers,Won
+419116,Delhi Daredevils,field,Delhi Daredevils,Won
+419117,Kings XI Punjab,bat,Royal Challengers Bangalore,Lost
+419118,Chennai Super Kings,bat,Chennai Super Kings,Won
+419119,Delhi Daredevils,field,Mumbai Indians,Lost
+419120,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+419121,Delhi Daredevils,bat,Chennai Super Kings,Lost
+419122,Kings XI Punjab,field,Deccan Chargers,Lost
+419123,Rajasthan Royals,bat,Rajasthan Royals,Won
+419124,Mumbai Indians,bat,Royal Challengers Bangalore,Lost
+419125,Deccan Chargers,bat,Deccan Chargers,Won
+419126,Chennai Super Kings,field,Kings XI Punjab,Lost
+419127,Kolkata Knight Riders,bat,Mumbai Indians,Lost
+419128,Chennai Super Kings,field,Royal Challengers Bangalore,Lost
+419129,Kings XI Punjab,field,Rajasthan Royals,Lost
+419130,Mumbai Indians,field,Mumbai Indians,Won
+419131,Deccan Chargers,bat,Rajasthan Royals,Lost
+419132,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+419133,Royal Challengers Bangalore,field,Delhi Daredevils,Lost
+419134,Rajasthan Royals,bat,Rajasthan Royals,Won
+419135,Deccan Chargers,field,Mumbai Indians,Lost
+419136,Delhi Daredevils,bat,Delhi Daredevils,Won
+419137,Mumbai Indians,field,Mumbai Indians,Won
+419138,Royal Challengers Bangalore,bat,Chennai Super Kings,Lost
+419139,Delhi Daredevils,bat,Delhi Daredevils,Won
+419140,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+419141,Kings XI Punjab,bat,Royal Challengers Bangalore,Lost
+419142,Chennai Super Kings,bat,Chennai Super Kings,Won
+419143,Mumbai Indians,bat,Mumbai Indians,Won
+419144,Kolkata Knight Riders,bat,Kings XI Punjab,Lost
+419145,Delhi Daredevils,bat,Delhi Daredevils,Won
+419146,Rajasthan Royals,bat,Rajasthan Royals,Won
+419147,Chennai Super Kings,bat,Chennai Super Kings,Won
+419148,Kings XI Punjab,bat,Rajasthan Royals,Lost
+419149,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+419150,Deccan Chargers,field,Deccan Chargers,Won
+419151,Mumbai Indians,bat,Kings XI Punjab,Lost
+419152,Chennai Super Kings,bat,Deccan Chargers,Lost
+419153,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+419154,Delhi Daredevils,bat,Kings XI Punjab,Lost
+419155,Rajasthan Royals,field,Mumbai Indians,Lost
+419156,Royal Challengers Bangalore,field,Deccan Chargers,Lost
+419157,Mumbai Indians,bat,Mumbai Indians,Won
+419158,Kolkata Knight Riders,bat,Chennai Super Kings,Lost
+419159,Rajasthan Royals,bat,Royal Challengers Bangalore,Lost
+419160,Chennai Super Kings,bat,Delhi Daredevils,Lost
+419161,Deccan Chargers,field,Deccan Chargers,Won
+419162,Royal Challengers Bangalore,field,Mumbai Indians,Lost
+419163,Rajasthan Royals,bat,Kolkata Knight Riders,Lost
+419164,Chennai Super Kings,field,Chennai Super Kings,Won
+419165,Deccan Chargers,bat,Deccan Chargers,Won
+419166,Mumbai Indians,bat,Kolkata Knight Riders,Lost
+419167,Mumbai Indians,bat,Mumbai Indians,Won
+419168,Chennai Super Kings,bat,Chennai Super Kings,Won
+419169,Deccan Chargers,bat,Royal Challengers Bangalore,Lost
+419170,Chennai Super Kings,bat,Chennai Super Kings,Won
+501203,Chennai Super Kings,bat,Chennai Super Kings,Won
+501204,Rajasthan Royals,field,Rajasthan Royals,Won
+501205,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,Lost
+501206,Delhi Daredevils,bat,Mumbai Indians,Lost
+501207,Kings XI Punjab,bat,Pune Warriors,Lost
+501208,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+501209,Delhi Daredevils,bat,Rajasthan Royals,Lost
+501210,Mumbai Indians,field,Mumbai Indians,Won
+501211,Kings XI Punjab,field,Kings XI Punjab,Won
+501212,Kochi Tuskers Kerala,bat,Pune Warriors,Lost
+501213,Royal Challengers Bangalore,field,Deccan Chargers,Lost
+501214,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+501215,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,Won
+501216,Chennai Super Kings,bat,Chennai Super Kings,Won
+501217,Kings XI Punjab,field,Kings XI Punjab,Won
+501218,Delhi Daredevils,field,Delhi Daredevils,Won
+501219,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+501220,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,Won
+501221,Deccan Chargers,bat,Deccan Chargers,Won
+501223,Pune Warriors,bat,Mumbai Indians,Lost
+501224,Kolkata Knight Riders,field,Kochi Tuskers Kerala,Lost
+501225,Rajasthan Royals,field,Kings XI Punjab,Lost
+501226,Chennai Super Kings,field,Mumbai Indians,Lost
+501227,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+501228,Kings XI Punjab,field,Delhi Daredevils,Lost
+501229,Deccan Chargers,field,Mumbai Indians,Lost
+501230,Rajasthan Royals,field,Rajasthan Royals,Won
+501231,Pune Warriors,field,Chennai Super Kings,Lost
+501232,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+501233,Pune Warriors,bat,Chennai Super Kings,Lost
+501234,Kochi Tuskers Kerala,field,Deccan Chargers,Lost
+501235,Delhi Daredevils,field,Kolkata Knight Riders,Lost
+501236,Rajasthan Royals,field,Rajasthan Royals,Won
+501237,Pune Warriors,field,Royal Challengers Bangalore,Lost
+501238,Delhi Daredevils,bat,Delhi Daredevils,Won
+501239,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+501240,Rajasthan Royals,field,Rajasthan Royals,Won
+501241,Chennai Super Kings,bat,Chennai Super Kings,Won
+501242,Kings XI Punjab,field,Mumbai Indians,Lost
+501243,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,Won
+501244,Deccan Chargers,field,Kolkata Knight Riders,Lost
+501245,Rajasthan Royals,bat,Chennai Super Kings,Lost
+501246,Pune Warriors,field,Mumbai Indians,Lost
+501247,Kolkata Knight Riders,field,Kochi Tuskers Kerala,Lost
+501248,Delhi Daredevils,field,Delhi Daredevils,Won
+501249,Kings XI Punjab,field,Royal Challengers Bangalore,Lost
+501250,Chennai Super Kings,bat,Kolkata Knight Riders,Lost
+501251,Delhi Daredevils,field,Mumbai Indians,Lost
+501252,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,Lost
+501253,Kings XI Punjab,bat,Pune Warriors,Lost
+501254,Rajasthan Royals,field,Chennai Super Kings,Lost
+501255,Deccan Chargers,bat,Pune Warriors,Lost
+501256,Mumbai Indians,field,Kings XI Punjab,Lost
+501257,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+501258,Chennai Super Kings,bat,Chennai Super Kings,Won
+501259,Kings XI Punjab,field,Kings XI Punjab,Won
+501260,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+501261,Deccan Chargers,bat,Deccan Chargers,Won
+501262,Delhi Daredevils,field,Kings XI Punjab,Lost
+501263,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,Won
+501264,Deccan Chargers,field,Deccan Chargers,Won
+501265,Kings XI Punjab,bat,Kings XI Punjab,Won
+501266,Chennai Super Kings,bat,Chennai Super Kings,Won
+501267,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+501268,Mumbai Indians,bat,Rajasthan Royals,Lost
+501269,Kings XI Punjab,field,Deccan Chargers,Lost
+501270,Delhi Daredevils,bat,NULL,Lost
+501271,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+501272,Mumbai Indians,field,Mumbai Indians,Won
+501273,Chennai Super Kings,field,Chennai Super Kings,Won
+501274,Mumbai Indians,field,Mumbai Indians,Won
+501275,Mumbai Indians,field,Royal Challengers Bangalore,Lost
+501276,Chennai Super Kings,bat,Chennai Super Kings,Won
+548311,Mumbai Indians,field,Mumbai Indians,Won
+548312,Delhi Daredevils,field,Delhi Daredevils,Won
+548313,Mumbai Indians,field,Pune Warriors,Lost
+548314,Kings XI Punjab,field,Rajasthan Royals,Lost
+548315,Delhi Daredevils,field,Royal Challengers Bangalore,Lost
+548316,Deccan Chargers,field,Chennai Super Kings,Lost
+548317,Kolkata Knight Riders,field,Rajasthan Royals,Lost
+548318,Pune Warriors,bat,Pune Warriors,Won
+548319,Deccan Chargers,bat,Mumbai Indians,Lost
+548320,Royal Challengers Bangalore,field,Kolkata Knight Riders,Lost
+548321,Delhi Daredevils,field,Delhi Daredevils,Won
+548322,Rajasthan Royals,field,Mumbai Indians,Lost
+548323,Royal Challengers Bangalore,bat,Chennai Super Kings,Lost
+548324,Kings XI Punjab,field,Kings XI Punjab,Won
+548325,Rajasthan Royals,bat,Kolkata Knight Riders,Lost
+548326,Deccan Chargers,bat,Delhi Daredevils,Lost
+548327,Chennai Super Kings,bat,Pune Warriors,Lost
+548328,Kolkata Knight Riders,field,Kings XI Punjab,Lost
+548329,Rajasthan Royals,bat,Rajasthan Royals,Won
+548330,Delhi Daredevils,field,Delhi Daredevils,Won
+548331,Deccan Chargers,bat,Rajasthan Royals,Lost
+548332,Pune Warriors,bat,Royal Challengers Bangalore,Lost
+548333,Kings XI Punjab,bat,Kolkata Knight Riders,Lost
+548334,Deccan Chargers,bat,Delhi Daredevils,Lost
+548335,Pune Warriors,field,Chennai Super Kings,Lost
+548336,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+548337,Rajasthan Royals,bat,Chennai Super Kings,Lost
+548338,Delhi Daredevils,field,Pune Warriors,Lost
+548339,Mumbai Indians,bat,Kings XI Punjab,Lost
+548340,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+548341,Rajasthan Royals,field,Royal Challengers Bangalore,Lost
+548342,Pune Warriors,bat,Delhi Daredevils,Lost
+548344,Kings XI Punjab,bat,Mumbai Indians,Lost
+548346,Deccan Chargers,bat,Deccan Chargers,Won
+548347,Mumbai Indians,field,Delhi Daredevils,Lost
+548348,Kings XI Punjab,bat,Kings XI Punjab,Won
+548349,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+548350,Delhi Daredevils,bat,Delhi Daredevils,Won
+548351,Mumbai Indians,field,Mumbai Indians,Won
+548352,Chennai Super Kings,bat,Kolkata Knight Riders,Lost
+548353,Deccan Chargers,bat,Deccan Chargers,Won
+548354,Rajasthan Royals,bat,Delhi Daredevils,Lost
+548355,Kings XI Punjab,field,Kings XI Punjab,Won
+548356,Mumbai Indians,bat,Mumbai Indians,Won
+548357,Chennai Super Kings,bat,Chennai Super Kings,Won
+548358,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+548359,Rajasthan Royals,bat,Rajasthan Royals,Won
+548360,Mumbai Indians,field,Mumbai Indians,Won
+548361,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+548362,Delhi Daredevils,bat,Kolkata Knight Riders,Lost
+548363,Pune Warriors,bat,Rajasthan Royals,Lost
+548364,Deccan Chargers,field,Kings XI Punjab,Lost
+548365,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+548366,Chennai Super Kings,field,Chennai Super Kings,Won
+548367,Pune Warriors,field,Royal Challengers Bangalore,Lost
+548368,Mumbai Indians,bat,Mumbai Indians,Won
+548369,Chennai Super Kings,field,Chennai Super Kings,Won
+548370,Rajasthan Royals,bat,Rajasthan Royals,Won
+548371,Deccan Chargers,bat,Kings XI Punjab,Lost
+548372,Mumbai Indians,field,Mumbai Indians,Won
+548373,Chennai Super Kings,field,Chennai Super Kings,Won
+548374,Kings XI Punjab,bat,Delhi Daredevils,Lost
+548375,Mumbai Indians,field,Kolkata Knight Riders,Lost
+548376,Kings XI Punjab,field,Kings XI Punjab,Won
+548377,Delhi Daredevils,field,Royal Challengers Bangalore,Lost
+548378,Rajasthan Royals,bat,Deccan Chargers,Lost
+548379,Delhi Daredevils,field,Delhi Daredevils,Won
+548380,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+548381,Royal Challengers Bangalore,field,Deccan Chargers,Lost
+548382,Rajasthan Royals,bat,Mumbai Indians,Lost
+548383,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+548384,Mumbai Indians,field,Chennai Super Kings,Lost
+548385,Delhi Daredevils,field,Chennai Super Kings,Lost
+548386,Chennai Super Kings,bat,Kolkata Knight Riders,Lost
+598003,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+598004,Mumbai Indians,field,Royal Challengers Bangalore,Lost
+598005,Pune Warriors,field,Sunrisers Hyderabad,Lost
+598006,Rajasthan Royals,bat,Rajasthan Royals,Won
+598007,Mumbai Indians,bat,Mumbai Indians,Won
+598008,Pune Warriors,bat,Kings XI Punjab,Lost
+598009,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,Lost
+598010,Kolkata Knight Riders,field,Rajasthan Royals,Lost
+598011,Mumbai Indians,bat,Mumbai Indians,Won
+598012,Chennai Super Kings,field,Chennai Super Kings,Won
+598013,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+598014,Rajasthan Royals,bat,Pune Warriors,Lost
+598015,Delhi Daredevils,bat,Sunrisers Hyderabad,Lost
+598016,Mumbai Indians,bat,Mumbai Indians,Won
+598017,Chennai Super Kings,field,Chennai Super Kings,Won
+598018,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+598019,Rajasthan Royals,field,Rajasthan Royals,Won
+598020,Pune Warriors,bat,Pune Warriors,Won
+598021,Kolkata Knight Riders,field,Kings XI Punjab,Lost
+598022,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+598023,Pune Warriors,field,Sunrisers Hyderabad,Lost
+598024,Rajasthan Royals,bat,Rajasthan Royals,Won
+598025,Chennai Super Kings,bat,Chennai Super Kings,Won
+598026,Kings XI Punjab,bat,Sunrisers Hyderabad,Lost
+598027,Kolkata Knight Riders,bat,Chennai Super Kings,Lost
+598028,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+598029,Mumbai Indians,bat,Delhi Daredevils,Lost
+598030,Kings XI Punjab,field,Kings XI Punjab,Won
+598031,Rajasthan Royals,bat,Chennai Super Kings,Lost
+598032,Pune Warriors,field,Royal Challengers Bangalore,Lost
+598033,Delhi Daredevils,field,Kings XI Punjab,Lost
+598034,Kolkata Knight Riders,bat,Mumbai Indians,Lost
+598035,Sunrisers Hyderabad,bat,Chennai Super Kings,Lost
+598036,Kings XI Punjab,bat,Kolkata Knight Riders,Lost
+598037,Sunrisers Hyderabad,bat,Rajasthan Royals,Lost
+598038,Mumbai Indians,bat,Mumbai Indians,Won
+598039,Kolkata Knight Riders,field,Chennai Super Kings,Lost
+598040,Pune Warriors,field,Delhi Daredevils,Lost
+598041,Rajasthan Royals,field,Rajasthan Royals,Won
+598042,Mumbai Indians,bat,Mumbai Indians,Won
+598043,Chennai Super Kings,bat,Chennai Super Kings,Won
+598044,Mumbai Indians,bat,Sunrisers Hyderabad,Lost
+598045,Kolkata Knight Riders,bat,Delhi Daredevils,Lost
+598046,Chennai Super Kings,bat,Chennai Super Kings,Won
+598047,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Won
+598048,Rajasthan Royals,bat,Kolkata Knight Riders,Lost
+598049,Delhi Daredevils,bat,Sunrisers Hyderabad,Lost
+598050,Kings XI Punjab,field,Kings XI Punjab,Won
+598051,Mumbai Indians,bat,Mumbai Indians,Won
+598052,Pune Warriors,bat,Rajasthan Royals,Lost
+598053,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,Lost
+598054,Delhi Daredevils,bat,Rajasthan Royals,Lost
+598055,Mumbai Indians,bat,Mumbai Indians,Won
+598056,Sunrisers Hyderabad,field,Chennai Super Kings,Lost
+598057,Rajasthan Royals,field,Rajasthan Royals,Won
+598058,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+598059,Delhi Daredevils,field,Royal Challengers Bangalore,Lost
+598060,Pune Warriors,bat,Mumbai Indians,Lost
+598061,Kings XI Punjab,field,Sunrisers Hyderabad,Lost
+598062,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+598063,Rajasthan Royals,field,Rajasthan Royals,Won
+598064,Kings XI Punjab,field,Kings XI Punjab,Won
+598065,Sunrisers Hyderabad,bat,Mumbai Indians,Lost
+598066,Kolkata Knight Riders,field,Pune Warriors,Lost
+598067,Chennai Super Kings,bat,Chennai Super Kings,Won
+598068,Rajasthan Royals,field,Mumbai Indians,Lost
+598069,Kings XI Punjab,field,Kings XI Punjab,Won
+598070,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Won
+598071,Mumbai Indians,field,Kings XI Punjab,Lost
+598072,Pune Warriors,bat,Pune Warriors,Won
+598073,Chennai Super Kings,field,Royal Challengers Bangalore,Lost
+598074,Kolkata Knight Riders,bat,Sunrisers Hyderabad,Lost
+598075,Chennai Super Kings,bat,Chennai Super Kings,Won
+598076,Sunrisers Hyderabad,bat,Rajasthan Royals,Lost
+598077,Rajasthan Royals,bat,Mumbai Indians,Lost
+598078,Mumbai Indians,bat,Mumbai Indians,Won
+729284,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+729286,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+729288,Chennai Super Kings,bat,Kings XI Punjab,Lost
+729290,Rajasthan Royals,field,Rajasthan Royals,Won
+729292,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+729294,Kolkata Knight Riders,bat,Delhi Daredevils,Lost
+729296,Kings XI Punjab,field,Kings XI Punjab,Won
+729298,Chennai Super Kings,bat,Chennai Super Kings,Won
+729300,Sunrisers Hyderabad,field,Kings XI Punjab,Lost
+729302,Rajasthan Royals,field,Chennai Super Kings,Lost
+729304,Royal Challengers Bangalore,field,Kolkata Knight Riders,Lost
+729306,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Won
+729308,Mumbai Indians,bat,Chennai Super Kings,Lost
+729310,Rajasthan Royals,field,Rajasthan Royals,Won
+729312,Kolkata Knight Riders,field,Kings XI Punjab,Lost
+729314,Mumbai Indians,bat,Delhi Daredevils,Lost
+729316,Sunrisers Hyderabad,bat,Chennai Super Kings,Lost
+729318,Kings XI Punjab,field,Kings XI Punjab,Won
+729320,Rajasthan Royals,bat,Rajasthan Royals,Won
+729322,Mumbai Indians,field,Sunrisers Hyderabad,Lost
+733976,Chennai Super Kings,bat,Chennai Super Kings,Won
+733978,Kings XI Punjab,bat,Mumbai Indians,Lost
+733980,Rajasthan Royals,field,Rajasthan Royals,Won
+733982,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+733984,Kolkata Knight Riders,field,Rajasthan Royals,Lost
+733986,Chennai Super Kings,field,Chennai Super Kings,Won
+733988,Royal Challengers Bangalore,field,Mumbai Indians,Lost
+733990,Delhi Daredevils,bat,Kolkata Knight Riders,Lost
+733992,Chennai Super Kings,field,Kings XI Punjab,Lost
+733994,Rajasthan Royals,field,Sunrisers Hyderabad,Lost
+733996,Royal Challengers Bangalore,field,Kings XI Punjab,Lost
+733998,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Won
+734000,Chennai Super Kings,field,Chennai Super Kings,Won
+734002,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+734004,Royal Challengers Bangalore,bat,Rajasthan Royals,Lost
+734006,Sunrisers Hyderabad,bat,Mumbai Indians,Lost
+734008,Rajasthan Royals,bat,Chennai Super Kings,Lost
+734010,Delhi Daredevils,field,Royal Challengers Bangalore,Lost
+734012,Kings XI Punjab,field,Kings XI Punjab,Won
+734014,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+734016,Delhi Daredevils,field,Rajasthan Royals,Lost
+734018,Chennai Super Kings,bat,Royal Challengers Bangalore,Lost
+734020,Sunrisers Hyderabad,bat,Kolkata Knight Riders,Lost
+734022,Mumbai Indians,bat,Mumbai Indians,Won
+734024,Kings XI Punjab,field,Kings XI Punjab,Won
+734026,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,Lost
+734028,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+734030,Mumbai Indians,field,Mumbai Indians,Won
+734032,Royal Challengers Bangalore,field,Kolkata Knight Riders,Lost
+734034,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Won
+734036,Delhi Daredevils,field,Mumbai Indians,Lost
+734038,Rajasthan Royals,field,Kings XI Punjab,Lost
+734040,Chennai Super Kings,field,Chennai Super Kings,Won
+734042,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+734044,Kings XI Punjab,field,Kings XI Punjab,Won
+734046,Mumbai Indians,field,Mumbai Indians,Won
+734048,Kings XI Punjab,field,Kolkata Knight Riders,Lost
+734050,Chennai Super Kings,field,Chennai Super Kings,Won
+734052,Chennai Super Kings,field,Kings XI Punjab,Lost
+734054,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+829710,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+829712,Delhi Daredevils,field,Chennai Super Kings,Lost
+829714,Kings XI Punjab,field,Rajasthan Royals,Lost
+829716,Chennai Super Kings,bat,Chennai Super Kings,Won
+829718,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+829720,Rajasthan Royals,field,Rajasthan Royals,Won
+829722,Mumbai Indians,field,Kings XI Punjab,Lost
+829724,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Won
+829726,Mumbai Indians,bat,Rajasthan Royals,Lost
+829728,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+829730,Kings XI Punjab,bat,Delhi Daredevils,Lost
+829732,Rajasthan Royals,field,Rajasthan Royals,Won
+829734,Mumbai Indians,bat,Chennai Super Kings,Lost
+829736,Delhi Daredevils,bat,Delhi Daredevils,Won
+829738,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+829740,Chennai Super Kings,bat,Rajasthan Royals,Lost
+829742,Royal Challengers Bangalore,field,Mumbai Indians,Lost
+829744,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+829746,Kings XI Punjab,field,Kings XI Punjab,Won
+829748,Kolkata Knight Riders,field,Sunrisers Hyderabad,Lost
+829750,Royal Challengers Bangalore,field,Chennai Super Kings,Lost
+829752,Mumbai Indians,field,Delhi Daredevils,Lost
+829754,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+829756,Mumbai Indians,bat,Mumbai Indians,Won
+829758,Chennai Super Kings,bat,Chennai Super Kings,Won
+829762,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+829764,Kings XI Punjab,field,Sunrisers Hyderabad,Lost
+829766,Kolkata Knight Riders,bat,Kolkata Knight Riders,Won
+829768,Rajasthan Royals,field,NULL,Lost
+829770,Kolkata Knight Riders,field,Chennai Super Kings,Lost
+829772,Delhi Daredevils,field,Delhi Daredevils,Won
+829774,Rajasthan Royals,field,Mumbai Indians,Lost
+829776,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+829778,Chennai Super Kings,field,Sunrisers Hyderabad,Lost
+829780,Mumbai Indians,bat,Mumbai Indians,Won
+829782,Delhi Daredevils,field,Rajasthan Royals,Lost
+829784,Chennai Super Kings,bat,Chennai Super Kings,Won
+829786,Sunrisers Hyderabad,field,Kolkata Knight Riders,Lost
+829788,Delhi Daredevils,bat,Mumbai Indians,Lost
+829790,Kings XI Punjab,field,Royal Challengers Bangalore,Lost
+829792,Rajasthan Royals,field,Sunrisers Hyderabad,Lost
+829794,Chennai Super Kings,bat,Mumbai Indians,Lost
+829796,Kings XI Punjab,bat,Kolkata Knight Riders,Lost
+829798,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Won
+829800,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Won
+829802,Chennai Super Kings,bat,Chennai Super Kings,Won
+829804,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Won
+829806,Chennai Super Kings,bat,Delhi Daredevils,Lost
+829808,Royal Challengers Bangalore,field,Kings XI Punjab,Lost
+829810,Kolkata Knight Riders,field,Mumbai Indians,Lost
+829812,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,Lost
+829814,Kings XI Punjab,bat,Chennai Super Kings,Lost
+829816,Rajasthan Royals,bat,Rajasthan Royals,Won
+829818,Royal Challengers Bangalore,field,NULL,Lost
+829820,Sunrisers Hyderabad,bat,Mumbai Indians,Lost
+829822,Mumbai Indians,bat,Mumbai Indians,Won
+829824,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Won
+829826,Chennai Super Kings,field,Chennai Super Kings,Won
+829828,Chennai Super Kings,field,Mumbai Indians,Lost
+980906,Mumbai Indians,bat,Rising Pune Supergiants,Lost
+980908,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+980910,Gujarat Lions,field,Gujarat Lions,Won
+980912,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Lost
+980914,Mumbai Indians,field,Mumbai Indians,Won
+980916,Rising Pune Supergiants,bat,Gujarat Lions,Lost
+980918,Delhi Daredevils,field,Delhi Daredevils,Won
+980920,Sunrisers Hyderabad,bat,Kolkata Knight Riders,Lost
+980922,Gujarat Lions,field,Gujarat Lions,Won
+980924,Rising Pune Supergiants,bat,Kings XI Punjab,Lost
+980926,Delhi Daredevils,field,Delhi Daredevils,Won
+980928,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Won
+980930,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+980932,Mumbai Indians,field,Mumbai Indians,Won
+980934,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Won
+980936,Rising Pune Supergiants,field,Royal Challengers Bangalore,Lost
+980938,Mumbai Indians,field,Delhi Daredevils,Lost
+980940,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Won
+980942,Royal Challengers Bangalore,bat,Gujarat Lions,Lost
+980944,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+980946,Kings XI Punjab,field,Mumbai Indians,Lost
+980948,Rising Pune Supergiants,field,Rising Pune Supergiants,Won
+980950,Delhi Daredevils,field,Gujarat Lions,Lost
+980952,Mumbai Indians,field,Mumbai Indians,Won
+980954,Gujarat Lions,field,Gujarat Lions,Won
+980956,Kolkata Knight Riders,field,Delhi Daredevils,Lost
+980958,Royal Challengers Bangalore,field,Sunrisers Hyderabad,Lost
+980960,Gujarat Lions,field,Kings XI Punjab,Lost
+980962,Mumbai Indians,field,Mumbai Indians,Won
+980964,Kolkata Knight Riders,field,Kolkata Knight Riders,Won
+980966,Delhi Daredevils,field,Delhi Daredevils,Won
+980968,Kings XI Punjab,field,Kolkata Knight Riders,Lost
+980970,Rising Pune Supergiants,field,Rising Pune Supergiants,Won
+980972,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Won
+980974,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+980976,Delhi Daredevils,field,Kings XI Punjab,Lost
+980978,Mumbai Indians,field,Sunrisers Hyderabad,Lost
+980980,Gujarat Lions,field,Gujarat Lions,Won
+980982,Kings XI Punjab,field,Royal Challengers Bangalore,Lost
+980984,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Won
+980986,Mumbai Indians,field,Mumbai Indians,Won
+980988,Delhi Daredevils,field,Delhi Daredevils,Won
+980990,Mumbai Indians,bat,Kings XI Punjab,Lost
+980992,Gujarat Lions,field,Royal Challengers Bangalore,Lost
+980994,Rising Pune Supergiants,bat,Kolkata Knight Riders,Lost
+980996,Kings XI Punjab,bat,Sunrisers Hyderabad,Lost
+980998,Delhi Daredevils,field,Mumbai Indians,Lost
+981000,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+981002,Rising Pune Supergiants,field,Rising Pune Supergiants,Won
+981004,Kings XI Punjab,field,Royal Challengers Bangalore,Lost
+981006,Gujarat Lions,field,Gujarat Lions,Won
+981008,Delhi Daredevils,field,Delhi Daredevils,Won
+981010,Kings XI Punjab,bat,Rising Pune Supergiants,Lost
+981012,Gujarat Lions,field,Gujarat Lions,Won
+981014,Sunrisers Hyderabad,field,Kolkata Knight Riders,Lost
+981016,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+981018,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Won
+981020,Kolkata Knight Riders,field,Sunrisers Hyderabad,Lost
+981022,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Won
+981024,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Won
+1082591,Royal Challengers Bangalore,Field,Sunrisers Hyderabad,Lost
+1082592,Rising Pune Supergiant,Field,Rising Pune Supergiants,Lost
+1082593,Kolkata Knight Riders,Field,Kolkata Knight Riders,Won
+1082594,Kings XI Punjab,Field,Kings XI Punjab,Won
+1082595,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,Won
+1082596,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,Won
+1082597,Mumbai Indians,Field,Mumbai Indians,Won
+1082598,Royal Challengers Bangalore,Bat,Kings XI Punjab,Lost
+1082599,Rising Pune Supergiants,Field,Delhi Daredevils,Lost
+1082600,Mumbai Indians,Field,Mumbai Indians,Won
+1082601,Kolkata Knight Riders,Field,Kolkata Knight Riders,Won
+1082602,Mumbai Indians,Field,Mumbai Indians,Won
+1082603,Gujarat Lions,Field,Gujarat Lions,Won
+1082604,Sunrisers Hyderabad,Field,Kolkata Knight Riders,Lost
+1082605,Delhi Daredevils,Bat,Delhi Daredevils,Won
+1082606,Mumbai Indians,Field,Mumbai Indians,Won
+1082607,Royal Challengers Bangalore,Field,Rising Pune Supergiants,Lost
+1082608,Delhi Daredevils,Bat,Kolkata Knight Riders,Lost
+1082609,Kings XI Punjab,Field,Sunrisers Hyderabad,Lost
+1082610,Gujarat Lions,Field,Royal Challengers Bangalore,Lost
+1082611,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,Won
+1082612,Mumbai Indians,Field,Mumbai Indians,Won
+1082613,Gujarat Lions,Field,Gujarat Lions,Won
+1082614,Delhi Daredevils,Field,Mumbai Indians,Lost
+1082615,Rising Pune Supergiants,Field,Rising Pune Supergiants,Won
+1082616,Gujarat Lions,Field,Kings XI Punjab,Lost
+1082617,Royal Challengers Bangalore,Field,Kolkata Knight Riders,Lost
+1082618,Mumbai Indians,Field,Rising Pune Supergiants,Lost
+1082619,,NA,abandoned,Lost
+1082620,Kolkata Knight Riders,Field,Kolkata Knight Riders,Won
+1082621,Gujarat Lions,Field,Gujarat Lions,Won
+1082622,Kolkata Knight Riders,Field,Kolkata Knight Riders,Won
+1082623,Kings XI Punjab,Field,Sunrisers Hyderabad,Lost
+1082624,Royal Challengers Bangalore,Field,Rising Pune Supergiants,Lost
+1082625,Gujarat Lions,Bat,tied,Lost
+1082626,Kings XI Punjab,Field,Kings XI Punjab,Won
+1082627,Kolkata Knight Riders,Field,Sunrisers Hyderabad,Lost
+1082628,Royal Challengers Bangalore,Bat,Mumbai Indians,Lost
+1082629,Rising Pune Supergiants,Field,Rising Pune Supergiants,Won
+1082630,Delhi Daredevils,Field,Delhi Daredevils,Won
+1082631,Rising Pune Supergiants,Field,Rising Pune Supergiants,Won
+1082632,Delhi Daredevils,Field,Delhi Daredevils,Won
+1082633,Royal Challengers Bangalore,Field,Kings XI Punjab,Lost
+1082634,Sunrisers Hyderabad,Field,Rising Pune Supergiants,Lost
+1082635,Delhi Daredevils,Field,Mumbai Indians,Lost
+1082636,Kolkata Knight Riders,Field,Kolkata Knight Riders,Won
+1082637,Gujarat Lions,Field,Gujarat Lions,Won
+1082638,Mumbai Indians,Bat,Sunrisers Hyderabad,Lost
+1082639,Kolkata Knight Riders,Field,Kings XI Punjab,Lost
+1082640,Delhi Daredevils,Field,Delhi Daredevils,Won
+1082641,Mumbai Indians,Field,Kings XI Punjab,Lost
+1082642,Delhi Daredevils,Bat,Delhi Daredevils,Won
+1082643,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,Won
+1082644,Kolkata Knight Riders,Field,Mumbai Indians,Lost
+1082645,Rising Pune Supergiants,Field,Rising Pune Supergiants,Won
+1082646,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,Won
+1082647,Mumbai Indians,Field,Rising Pune Supergiants,Lost
+1082648,Kolkata Knight Riders,Field,Kolkata Knight Riders,Won
+1082649,Mumbai Indians,Field,Mumbai Indians,Won
+1082650,Mumbai Indians,Bat,Mumbai Indians,Won
