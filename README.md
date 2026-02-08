@@ -66,6 +66,6 @@ Developed a modular, end-to-end Apache Spark ETL pipeline designed to process an
 <h2 align="center">IPL Data Engineering Pipeline Architecture</h2>
 
 <p align="center">
-  <img src="images/Architecture.png" width="900">
+  <img src="images/Architecture.png" width="500">
 </p>
  
